@@ -20,6 +20,8 @@ const App = () => {
       <footer className="footer">
         <div className="footer-container">
           <div className="footer-copyright">
+
+        
             <p>&copy; 2024 Stella. All rights reserved.</p>
           </div>
         </div>
